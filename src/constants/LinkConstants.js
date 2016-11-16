@@ -75,6 +75,10 @@ export const LINKS_LIST = {
 			{
 				text: "EVERYONE IS GAY",
 				link: "http://everyoneisgay.com/donate/"
+			},
+			{
+				text: "MAZZONI CENTER",
+				link: "https://www.mazzonicenter.org/donate-now"
 			}
 		],
 		volunteer: [
@@ -115,6 +119,10 @@ export const LINKS_LIST = {
 			{
 				text: "THE NAACP",
 				link: "https://donate.naacp.org/page/contribute/make-a-contribution"
+			},
+			{
+				text: "THE NAACP LEGAL DEFENSE FUND",
+				link: "http://www.naacpldf.org/donate"
 			},
 			{
 				text: "NATIONAL IMMIGRATION LAW CENTER",
@@ -244,6 +252,10 @@ export const LINKS_LIST = {
 			{
 				text: "COOL EARTH",
 				link: "https://www.coolearth.org/get-involved/donate/"
+			},
+			{
+				text: "UNION OF CONCERNED SCIENTISTS"
+				link: "https://secure3.convio.net/ucs/site/Donation2?df_id=1440&1440.donation=form1&s_src=donatemenu&_ga=1.83990047.781650090.1478875912"
 			}
 		],
 		volunteer: [
